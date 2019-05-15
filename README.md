@@ -4,7 +4,7 @@
 </a>
 </p>  
 
-# Odev5.1_Variance
+# Varyans
 Varyans ile ilgili Soru ve Çözümü
 
 ## Soru: Varyans
