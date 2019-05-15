@@ -8,10 +8,7 @@
 Varyans ile ilgili Soru ve Çözümü
 
 ## Soru: Varyans
-İçerisinde Mavi ve Yeşil topların bulunduğu bir torbadan 2 top çekiliyor.Mavi top gelme sayısına ait kesikli olasılık dağılımını bulunuz.
-Kesikli olasılık dağılımına ait Beklenen Değer "E[X]" yardımı ile Varyans "Var[X]" hesabını yapınız.
-
-(Torbada bulunan Yeşil ve Mavi Top Sayıları Kullanıcı Tarafından Girilecektir.)
+İçerisinde Kırmızı ve Beyaz kartların bulunduğu bir torbadan 2 kart çekiliyor. Kırmızı kart gelme sayısına ait kesikli olasılık dağılımını ve kesikli olasılık dağılımına ait beklenen değeri "E[X]" hesaplayarak Varyansın "Var[X]" ne olacağını bulunuz.
 
 ## Çözüm:
 Beyaz Kart: 4 ve Kırmızı Kart: 3 olursa
